@@ -17,6 +17,9 @@
     "gulp-uglify": "3.0.0",
     "pump": "2.0.0"
   },
+  "dependencies": {
+    "croppie": "2.5.1"
+  },
   "scripts": {
     "lint": "gulp lint",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
